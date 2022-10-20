@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
+O **1josuejuniorpay** é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
 
 ## 🔖 Layout
 
@@ -63,7 +63,7 @@ Se possível:
  <br />
  <sub><b>Josué Júnior</b></sub></a> <a href="https://www.instagram.com/_josuejunior/" title="Instagram"></a>
 
-Feito na raça️ por Josué 👋🏽 Entre em contato!
+Feito na raça️ por **Josué** em conjunto com os instrutores **Mayk Brito** e **Rodrigo Gonçalves** da Rocketseat 👋. Entre em contato!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Josué-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cami-la/)](https://www.linkedin.com/in/1josuejunior/)
 [![Gmail Badge](https://img.shields.io/badge/-josue.severiino@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josue.severiino@gmail.com)](mailto:josue.severiino@gmail.com)
